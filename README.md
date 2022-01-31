@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuizHenri16 ro Luiz Henrique Bastos Santana
+- 👋 Hi, I’m @LuizHenri16 or Luiz Henrique Bastos Santana
 - 👀 I’m interested in Html, CSS, JavaScript and Python
 - 🌱 I’m currently learning Html, CSS, JavaScript and ReactJS
 
