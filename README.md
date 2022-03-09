@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @LuizHenri16 or Luiz Henrique Bastos Santana
-- 👀 I’m interested in Html, CSS, JavaScript and Python
-- 🌱 I’m currently learning Html, CSS, JavaScript and ReactJS
--  @ Contact > lbastos722@gmail.com
+# 👋 Hi, I’m @LuizHenri16 or Luiz Henrique 
 
-<!---
-LuizHenri16 is a young person who wants to learn about new technologies every day...
---->
+- 👀 I’m interested in ReactJs
+- 🌱 I’m currently learning Html, CSS, JavaScript and ReactJS
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHenri16)](https://github.com/LuizHenri16/github-readme-stats)
