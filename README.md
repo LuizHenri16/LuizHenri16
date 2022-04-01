@@ -1,6 +1,6 @@
 # 👋💻📕 Olá! 🎵💻🎸
 
-🙋‍♂️ Meu nome é Luiz Henrique
+🙋‍♂️ Meu nome é Luiz Henrique <br>
 📍 Meu foco atual é programação web
 📖 Tenho estudado HTML | CSS | JavaScript | ReactJS | NextJS
 ❌ Atualmente não trabalho
