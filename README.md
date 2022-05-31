@@ -3,6 +3,7 @@
 🙋‍♂️ Meu nome é Luiz Henrique <br>
 📍 Meu foco atual é programação web <br>
 📖 Tenho estudado HTML | CSS | JavaScript | ReactJS | NextJS <br>
+💻 Windows | Linux <br>
 ❌ Atualmente não trabalho <br>
 
 🔍 Em 2018 tive meu primeiro contato com programação ao assistir um video <br>
