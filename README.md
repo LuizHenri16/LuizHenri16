@@ -5,7 +5,6 @@
 📖 HTML | CSS | JavaScript | ReactJS | NextJS | Python <br>
 💻 Windows | Linux | WSL <br>
 📖 Cursando Técnico em Desenvolvimento de Sistemas pelo Senac <br>
-✔️ Atualmente não trabalho <br>
 
 🔍 Em 2018 tive meu primeiro contato com programação ao assistir um video <br>
    sobre programação e me interessei muito pela área <br>
