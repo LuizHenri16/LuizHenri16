@@ -1,8 +1,8 @@
 # 👋💻📕 Olá! 🎵💻🎸
 
 🙋‍♂️ Meu nome é Luiz Henrique <br>
-📍 Meu foco atual é programação web <br>
-📖 HTML | CSS | JavaScript | ReactJS | Java <br>
+📍 Meu foco atual é programação desktop <br>
+📖 HTML | CSS | JavaScript | ReactJS | Java | SpringBoot | MySQL <br>
 💻 Windows | Linux | WSL <br>
 📖 Cursando Técnico em Desenvolvimento de Sistemas pelo Senac <br>
 
