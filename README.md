@@ -1,12 +1,5 @@
-# 👋💻📕 Olá! 🎵💻🎸
+🙋‍♂️ Olá! Meu nome é Luiz Henrique, tenho 23 anos e estou cursando técnico em Desenvolvimento de Sistemas. Atualmente, com foco em tecnologias como o Java e MySQL e tenho como ojetivo o desenvolvimento backend.
 
-🙋‍♂️ Olá! Meu nome é Luiz Henrique, tenho 22 anos e estou cursando técnico em Desenvolvimento de Sistemas. Atualmente, meu foco é em Java e MySQL, mas também           possuo conhecimento e projetos em HTML, CSS e JavaScript. Utilizo ferramentas como Figma, VSCode, IntelliJ e NetBeans para desenvolver minhas habilidades       e criar soluções inovadoras. Estou sempre em busca de novos desafios e oportunidades para crescer na área de tecnologia.
-
-🔍 Em 2018 tive meu primeiro contato com programação ao assistir um video <br>
-   sobre programação e me interessei muito pela área <br>
-   Python foi a primeira linguagem que eu estudei, sendo um breve contato <br>
-   Em 2021 voltei a ter contato com a área, mas agora com as tecnologias que estudo hoje<br>
-📱 Gosto muito de tecnologia, jogos e música <br>
 
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
