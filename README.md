@@ -1,12 +1,5 @@
 🙋‍♂️ Olá! Meu nome é Luiz Henrique, tenho 23 anos e estou cursando técnico em Desenvolvimento de Sistemas. Atualmente, com uso de tecnologias e ferramentas como:
 
-- Java
-- MySQL
-- Postgres
-- Javascript
-- React
-- Figma
-
 Tenho como ojetivo o desenvolvimento de software de fácil uso e eu seja direto para usuário.
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
