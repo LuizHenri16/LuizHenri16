@@ -1,12 +1,15 @@
 # 🙋‍♂️ Olá! Eu sou Luiz Henrique
 
-Tenho 23 anos e sou estudante de Técnico em Desenvolvimento de Sistemas. Apaixonado por tecnologia, estou sempre explorando novas ferramentas e linguagens para criar soluções eficientes e criativas.
+<p align="center">
+  Tenho 23 anos e sou estudante de Técnico em Desenvolvimento de Sistemas. Apaixonado por tecnologia, estou sempre explorando novas ferramentas e linguagens para criar soluções eficientes e criativas.
+</p>
 
----
+
 
 ## 🚀 Tecnologias e Ferramentas que utilizo
 
-<p align="left">
+<p align="center">
+  <br><br>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
@@ -24,16 +27,16 @@ Tenho 23 anos e sou estudante de Técnico em Desenvolvimento de Sistemas. Apaixo
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
-
+<br><br>
 
 ---
 
-
+<br>
 <div align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=LuizHenri16&theme=cobalt&show_icons=true&hide_border=false&count_private=true" alt="LuizHenri16's Stats"/>
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenri16&theme=cobalt&show_icons=true&hide_border=false&layout=compact" alt="LuizHenri16's Top Languages"/>
 </div>
-
+<br>
 
 ---
 
