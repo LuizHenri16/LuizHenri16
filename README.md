@@ -30,8 +30,8 @@ Tenho 23 anos e sou estudante de Técnico em Desenvolvimento de Sistemas. Apaixo
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizHenri16&theme=cobalt&show_icons=true&hide_border=false&count_private=true" alt="LuizHenri16's Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenri16&theme=cobalt&show_icons=true&hide_border=false&layout=compact" alt="LuizHenri16's Top Languages"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=LuizHenri16&theme=cobalt&show_icons=true&hide_border=false&count_private=true" alt="LuizHenri16's Stats"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenri16&theme=cobalt&show_icons=true&hide_border=false&layout=compact" alt="LuizHenri16's Top Languages"/>
 </div>
 
 
