@@ -6,7 +6,7 @@
 
 
 
-## 🚀 Tecnologias e Ferramentas que utilizo
+## 🚀 Skills
 
 <p align="center">
   <br><br>
