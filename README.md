@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,php)](https://skillicons.dev)
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)](https://skillicons.dev)
 
 ### Database  
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)  
