@@ -1,4 +1,4 @@
-# 🙋‍♂️ Olá! Eu sou Luiz Henrique
+# 🙋‍♂️ Hi! I'm Luiz Henrique
 
 <p align="start"> I'm 23 years old and a Software Engineering student. Passionate about technology, I'm always exploring new tools and languages to create efficient, scalable, and creative solutions. Currently, I'm focusing on improving my knowledge of system architecture and development best practices. </p>
 
