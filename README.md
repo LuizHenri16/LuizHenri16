@@ -1,8 +1,6 @@
 # 🙋‍♂️ Olá! Eu sou Luiz Henrique
 
-<p align="start">
-  Tenho 23 anos e sou estudante de Técnico em Desenvolvimento de Sistemas. Apaixonado por tecnologia, estou sempre explorando novas ferramentas e linguagens para criar soluções eficientes e criativas.
-</p>
+<p align="start"> I'm 23 years old and a Software Engineering student. Passionate about technology, I'm always exploring new tools and languages to create efficient, scalable, and creative solutions. Currently, I'm focusing on improving my knowledge of system architecture and development best practices. </p>
 
 
 
@@ -28,6 +26,5 @@
 
 ---
 
-
-Se quiser trocar uma ideia sobre desenvolvimento, projetos ou colaboração, fique à vontade para me chamar!
+If you'd like to talk about development, projects, or collaboration, feel free to reach out!
 
