@@ -21,14 +21,10 @@
 
 ---
 
-<br>
-<div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=LuizHenri16&theme=cobalt&show_icons=true&hide_border=false&count_private=true" alt="LuizHenri16's Stats"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenri16&theme=cobalt&show_icons=true&hide_border=false&layout=compact" alt="LuizHenri16's Top Languages"/>
-</div>
-<br>
+![LuizHenri16's GitHub Stats](https://readme-stats-github.pages.dev/api?username=LuizHenri16&theme=shadow) ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=LuizHenri16&theme=shadow)
+
+![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=bugs%2C%20bugs%20everywhere&theme=dark&color=%23310a98&particleColor=%230d1117&background=%230d1117)
 
 ---
-
 If you'd like to talk about development, projects, or collaboration, feel free to reach out!
 
