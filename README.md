@@ -6,20 +6,9 @@
 
 ## 🚀 Skills
 
-### Backend
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nestjs)](https://skillicons.dev)
-
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)](https://skillicons.dev)
-
-### Database  
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nestjs,js,ts,react,nextjs,tailwind,postgres,mysql,aws,docker,gitlab,githubactions,linux)](https://skillicons.dev)
 
 
-### Cloud & Devops
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,gitlab,githubactions,linux)](https://skillicons.dev)  
-
----
 
 ![LuizHenri16's GitHub Stats](https://readme-stats-github.pages.dev/api?username=LuizHenri16&theme=shadow) ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=LuizHenri16&theme=shadow)
 
